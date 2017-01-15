@@ -1,0 +1,24 @@
+{
+  "name": "Webprojectjs",
+  "homepage": "https://github.com/nextitsoftsys/AngularJs",
+  "authors": [
+    "yadav.jayprakash19@gmail.com"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.6",
+    "angular": "angularjs#^1.6.1",
+    "angular-ui-router": "^0.3.2"
+  }
+}
